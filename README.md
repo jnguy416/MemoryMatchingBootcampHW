@@ -1,3 +1,2 @@
 # MemoryMatchingBootcampHW
-
-Students! You will all be completing this matching card game. Follow the directions throughout this file to slowly build out the game's features.
+After loading the game, play by clicking on various cards to reveal the icons. Then, try to match the pairs of cards that have the same icon. You win once you match all the cards. 
